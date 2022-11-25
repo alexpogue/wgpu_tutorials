@@ -1,0 +1,3 @@
+To solve pkg-config error finding fontconfig.pc, do:
+
+`sudo apt-get install libfontconfig1-dev`
